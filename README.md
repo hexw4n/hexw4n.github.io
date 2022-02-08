@@ -1,2 +1,2 @@
-# hexw4n.github.io
-Personal website
+# miguel.ws
+This is basically my personal website
